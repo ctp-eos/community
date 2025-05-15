@@ -107,7 +107,7 @@ As the project continues to grow, the repository will remain an indispensable re
 
 CTPSci Sciences are ***'how'*** we will attain new advanced multiplanetary civlization and interstellar travel in our lifetime.   
 
-Please do not only *wait* idly on the side for the outcome, we invite you to become PART OF THE PROCESS! ONLY WITH YOUR SUPPORT and involvement will these objectives of our combined human aspirations ever be achieved! Our Mission at **CTP** is to achieve this scale of civilization engineering and advancements within one generation! Via C-domain!
+Please do not only *wait* idly on the side for the outcome, we invite you to become PART OF THE PROCESS! ONLY WITH YOUR SUPPORT and involvement will these objectives of our combined human aspirations ever be achieved! Our Mission at **CTP** is to achieve this scale of civilization engineering and advancements within one generation *(or less)* while **advancing human consciousness! Via C-domain!**
 
 ---
 
