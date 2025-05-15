@@ -1,7 +1,3 @@
-Certainly! Here’s a long-winded, detailed article summarizing the **CTP-EOS repository** as a central hub for the CTP-EOS community. I’ll craft it with a formal tone, rich detail, and suitable for publication or community documentation purposes. If you want, I can also add headings, sections, and some subtle promotional touches to make it reader-friendly.
-
----
-
 # The CTP-EOS Repository: A Comprehensive Community Nexus for CTP-EOS Development and Collaboration
 
 In the rapidly evolving landscape of open-source projects and decentralized technological innovation, the **CTP-EOS repository** stands as a vital cornerstone—uniting developers, enthusiasts, and stakeholders under a common banner of shared knowledge, collective progress, and community-driven problem solving. This repository serves not merely as a codebase or storage location, but as an active community notes archive and an addressing podium for the vibrant and expanding **CTP-EOS community**.
@@ -115,4 +111,8 @@ Please do not only *wait* idly on the side for the outcome, we invite you to bec
 
 ---
 
+<img src="https://github.com/ctp-eos/community/blob/main/images/ctp-craft-concept-craft.png" alt="CTP Craft Concept" width="800"/>
+
 *Future CTP Energy concept craft-type*
+
+---
