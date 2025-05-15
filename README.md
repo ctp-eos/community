@@ -107,7 +107,7 @@ As the project continues to grow, the repository will remain an indispensable re
 
 CTPSci Sciences are ***'how'*** we will attain new advanced multiplanetary civlization and interstellar travel in our lifetime.   
 
-Please do not only *wait* idly on the side for the outcome, we invite you to become PART OF THE PROCESS! ONLY WITH YOUR SUPPORT involved in the process will these objectives of our combined human aspiractions ever be achieved!
+Please do not only *wait* idly on the side for the outcome, we invite you to become PART OF THE PROCESS! ONLY WITH YOUR SUPPORT involvement will these objectives of our combined human aspiractions ever be achieved!
 
 ---
 
