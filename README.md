@@ -112,7 +112,7 @@ Please do not only *wait* idly on the side for the outcome, we invite you to bec
 ---
 
 <div style="text-align:center;">
-  <img src="https://github.com/ctp-eos/community/blob/main/images/ctp-craft-concept-craft.png" alt="CTP Craft Concept" width="700"/>
+  <img src="https://github.com/ctp-eos/community/blob/main/images/ctp-craft-concept-craft.png" alt="CTP Craft Concept" width="800"/>
 </div>
 
 *Future CTP Energy concept craft-type*
