@@ -10,7 +10,8 @@ They say:
 But guess what?  
 **The future doesn’t wait.**
 
-CTP Energy isn't just a product. It’s a **paradigm shift** — one with the potential to redefine how we understand energy, biology, space, and consciousness.  
+CTP Energy isn't just a product, new fringe science, or new future advanced technologies to come later...    
+It’s a **paradigm shift** — one with the potential to redefine how we understand energy, biology, space, and consciousness.  
 
 But here's the hard truth:  
 Systems this ambitious don’t fit in the neat little boxes VCs like to invest in.  
@@ -63,6 +64,7 @@ Because the future of energy, healing, and human potential shouldn’t be decide
 
 --- 
 
-## CTP is the Disclosure
-## Supported by the CTP is Disclosure Movement
-## CTP-EOS is YOUR Operating System - from C-domain
+### CTP is the Disclosure
+### Supported by the CTP is Disclosure Movement
+
+### CTP-EOS is YOUR Open Source and Free Operating System - from C-domain
