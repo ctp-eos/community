@@ -90,7 +90,7 @@ Joining the CTP-EOS community is straightforward and welcoming:
 3. **Contribute Your Skills:** Identify areas where you can add value, whether that’s improving documentation, submitting code enhancements, testing new features, or helping fellow community members troubleshoot problems.
 4. **Stay Connected:** Keep up-to-date with the latest news, roadmap updates, and community events by subscribing to notifications or joining affiliated communication groups and forums.
 
-### A Community Built on Shared Passion and Purpose
+### A Community Built on Shared Passion, Vision, Mission and Purpose: Forwarding Humankind into a New Postquantum Age!
 
 At its core, the CTP-EOS repository and community are powered by a shared passion for innovation, transparency, and mutual growth. By joining, you become part of a movement that is not only advancing technology but also redefining how collaborative projects thrive in an open, inclusive, and decentralized manner.
 
