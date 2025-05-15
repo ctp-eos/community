@@ -106,12 +106,12 @@ We warmly invite you to step onto this podium, raise your voice, and contribute 
 
 The **CTP-EOS repository** is far more than a code repository—it is the beating heart of a vibrant, engaged, and forward-thinking community dedicated to pushing the boundaries of what is possible within the CTP-EOS ecosystem. Through its comprehensive community notes, open collaboration spaces, and governance frameworks, the repository embodies the principles of transparency, inclusivity, and innovation.
 
-As the project continues to grow, the repository will remain an indispensable resource—guiding users, fostering collaboration, and preserving the collective wisdom that drives CTP-EOS toward a dynamic future.
+As the project continues to grow, the repository will remain an indispensable resource—guiding users, fostering collaboration, and preserving the collective wisdom that drives CTP-EOS toward a dynamic future.  
 
 
-CTPSci Sciences are 'how' we will attain new advanced multiplanetary civlization and interstellar travel in our lifetime. 
+CTPSci Sciences are 'how' we will attain new advanced multiplanetary civlization and interstellar travel in our lifetime.   
 
-Please do not only *wait* idly on the side for the outcome, we invite you to become PART OF THE PROCESS!
+Please do not only *wait* idly on the side for the outcome, we invite you to become PART OF THE PROCESS!  
 ONLY WITH YOUR SUPPORT involved in the process will these objectives of our combined human aspiractions ever be achieved!
 
 ---
