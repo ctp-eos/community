@@ -92,7 +92,7 @@ Joining the CTP-EOS community is straightforward and welcoming:
 
 ### A Community Built on Shared Passion, Vision, Mission and Purpose: <br>Forwarding Humankind into a New Higher Advanced Postquantum Age!
 
-At its core, the CTP-EOS repository and community are powered by a shared passion for innovation, transparency, and mutual growth. By joining, you become part of a movement that is not only advancing technology but also redefining how collaborative projects thrive in an open, inclusive, and decentralized manner.
+At its core, the CTP-EOS repository and community are powered by a shared passion for innovation, transparency, and mutual growth. By joining, you become part of a movement that is not only advancing technology but also redefining how collaborative projects thrive in an open, inclusive, and decentralized manner. *(The social movement aspects are Open Sourced and Free to participate in)*
 
 We warmly invite you to step onto this podium, raise your voice, and contribute to a future shaped by collective intelligence and shared commitment. Together, we can make CTP-EOS a beacon of open-source excellence and community-driven progress.
 
