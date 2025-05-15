@@ -65,6 +65,6 @@ Because the future of energy, healing, and human potential shouldn’t be decide
 --- 
 
 ### CTP is the Disclosure
-[**Supported by the CTP is Disclosure Movement**](https://github.com/ctp-eos/ctpidm)
+[**Supported by the CTP is Disclosure Movement**](https://github.com/ctp-eos/ctp-idm)
 
 **CTP-EOS is YOUR Open Source and Free Extraterrestrial Energy Operating System - from C-domain**
